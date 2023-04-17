@@ -4,4 +4,4 @@ Algoritmos utilizados nos desafios de código nos Bootcamps
 ## Linguagens
 
 - Java
-- JS
+- JavaScript
