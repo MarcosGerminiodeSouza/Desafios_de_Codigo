@@ -1,7 +1,7 @@
 # Desafios de código em java
 
-*Dominando Algoritmos Básicos com Desafios de Código Java*
-*Dominando Algoritmos Intermediários com Desafios de Código Java*
+- *Dominando Algoritmos Básicos com Desafios de Código Java*
+- *Dominando Algoritmos Intermediários com Desafios de Código Java*
 ## Básicos
 
 1. Fábrica de carros
