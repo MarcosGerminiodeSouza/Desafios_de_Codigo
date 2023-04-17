@@ -1,7 +1,7 @@
 # Desafios de código
 
 - **Dominando Algoritmos com Desafios de Código JavaScript**
-- **Dominando Algoritmos com Desafios de Código Java
+- **Dominando Algoritmos com Desafios de Código Java**
 ## JavaScript
 
 1. Números em Vetores
