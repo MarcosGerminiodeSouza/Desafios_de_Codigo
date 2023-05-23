@@ -1,4 +1,3 @@
-/*
 import java.util.Scanner;
 
 public class LojaDeTintas {
@@ -16,4 +15,3 @@ public class LojaDeTintas {
     System.out.println("Quantidade(s) de galao(oes) de tinta necessaria(s): " + (int) quantidadeGaloes + " no valor R$ "  + quantidadeGaloes * valorGalao);
   }
 }
-*/

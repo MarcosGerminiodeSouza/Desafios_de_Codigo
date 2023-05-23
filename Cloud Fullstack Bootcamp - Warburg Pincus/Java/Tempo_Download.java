@@ -1,7 +1,6 @@
-/*
 import java.util.Scanner;
 
-public class Main {
+public class Tempo_Download {
   public static void main(String[] Args) {
     Scanner sc = new Scanner(System.in);
     
@@ -15,4 +14,3 @@ public class Main {
     
   }
 }
-*/

@@ -1,4 +1,3 @@
-/*
 import java.util.Scanner;
 
 public class Ano_Bissexto {
@@ -16,4 +15,3 @@ public class Ano_Bissexto {
           System.out.println("Nao Bissexto");
     }
 }
-*/

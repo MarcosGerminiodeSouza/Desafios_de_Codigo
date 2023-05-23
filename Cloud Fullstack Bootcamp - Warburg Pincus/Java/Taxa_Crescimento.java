@@ -1,7 +1,6 @@
-/*
 import java.util.Scanner;
 
-public class Main {
+public class Taxa_Crescimento {
   
   public static void main(String[] args) {
     
@@ -20,4 +19,3 @@ public class Main {
     
   }
 }
-*/
