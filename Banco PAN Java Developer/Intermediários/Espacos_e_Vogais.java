@@ -1,4 +1,3 @@
-/* Desafio: Conta Espaços e Vogais
 import java.util.Scanner;
 
 public class Espacos_e_Vogais {
@@ -23,4 +22,3 @@ public class Espacos_e_Vogais {
     System.out.println("Espacos em branco: " + espacosEmBranco + " Vogais: " + quantVogais);
   }
 }
-*/

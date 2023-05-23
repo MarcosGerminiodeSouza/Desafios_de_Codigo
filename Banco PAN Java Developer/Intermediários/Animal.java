@@ -1,6 +1,3 @@
-
-
-/* Desafio: Animal - Usando ninho de if
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -42,4 +39,3 @@ public class Animal {
 		}
 	}
 }
-*/

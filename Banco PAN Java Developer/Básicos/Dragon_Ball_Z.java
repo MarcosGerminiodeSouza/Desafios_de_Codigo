@@ -1,4 +1,3 @@
-/* Desafio: Dragão!
 import java.util.*;
 
 public class Dragon_Ball_Z {
@@ -19,4 +18,3 @@ public class Dragon_Ball_Z {
     }
   }
 }
-*/

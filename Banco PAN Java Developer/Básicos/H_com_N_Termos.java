@@ -1,4 +1,3 @@
-/* Desafio: Soma de H com N termos.
 import java.util.Scanner;
 import java.lang.Math;
 
@@ -17,4 +16,3 @@ public class H_com_N_Termos {
     System.out.println(Math.round(h));
   }
 }
-*/

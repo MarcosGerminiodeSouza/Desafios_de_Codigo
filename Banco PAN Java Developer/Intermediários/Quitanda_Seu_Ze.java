@@ -1,4 +1,4 @@
-/* Desafio: Quitanda do Seu Zé
+
 import java.util.*;
 
 public class Quitanda_Seu_Ze {
@@ -15,4 +15,3 @@ public class Quitanda_Seu_Ze {
     
   }
 }
- */

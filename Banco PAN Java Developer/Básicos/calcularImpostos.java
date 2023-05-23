@@ -1,4 +1,3 @@
-/* Desafio: Fábrica de Carros.
 import java.util.*;
 
 public class calcularImpostos {
@@ -20,4 +19,3 @@ public class calcularImpostos {
     System.out.println(consumidor);
 	}
 }
-*/

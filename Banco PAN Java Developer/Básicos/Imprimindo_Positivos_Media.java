@@ -1,4 +1,3 @@
-/* Desafio: Imprimindo Positivos e Média
 import java.util.Scanner;
 
 public class Imprimindo_Positivos_Media {
@@ -22,4 +21,3 @@ public class Imprimindo_Positivos_Media {
 	}
 
 }
-*/

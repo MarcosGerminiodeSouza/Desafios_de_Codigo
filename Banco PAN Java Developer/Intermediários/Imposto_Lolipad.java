@@ -1,4 +1,3 @@
-/* Desafio: Taxa de Imposto de Renda
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -23,4 +22,3 @@ public class Imposto_Lolipad {
     
   }
 }
-*/
