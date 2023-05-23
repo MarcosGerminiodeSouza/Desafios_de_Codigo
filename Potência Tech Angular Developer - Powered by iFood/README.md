@@ -13,8 +13,8 @@
 5. Gerenciamento de Pedidos de Comida Online (Comida_Online.js)
 ## JSON
 
-1. DIO Delivery
-2. Acompanhando os Pedidos
-3. Comparando os Pedidos
-4. Avaliando Restaurantes
-5. Encontrando o Pedido Mais Próximo
+1. DIO Delivery (DIO_Delivery.js)
+2. Acompanhando os Pedidos (Acompanhando_Pedidos.js)
+3. Comparando os Pedidos (Comparando_Pedidos.js)
+4. Avaliando Restaurantes (Avaliando_Restaurantes.js)
+5. Encontrando o Pedido Mais Próximo (Pedido_Mais_Proximo.js)
