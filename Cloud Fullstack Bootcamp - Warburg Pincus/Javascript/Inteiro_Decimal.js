@@ -1,6 +1,6 @@
 let valor = gets();
-if (valor %1 == 0){
+
+if (valor %1 == 0)
   print('Inteiro');
-} else {
+else
   print('Decimal');
-}
