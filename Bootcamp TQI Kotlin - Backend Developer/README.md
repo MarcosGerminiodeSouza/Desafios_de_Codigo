@@ -13,8 +13,8 @@
 5. Desafio com Java: Mudança para Irlanda (MudancaparaIrlanda.java)
 ## Kotlin
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Desafio com Kotlin: Média Final do Aluno (MediaFinalDoAluno.kt)
+2. Desafio com Kotlin: Data por Extenso (DataporExtenso.kt)
+3. Desafio com Kotlin: Numeral Romano (NumeralRomano.kt)
+4. Desafio com Kotlin: Cálculo Sálarial (CalculoSalarial.kt)
+5. Desafio com Kotlin: Taxa de Crescimento (TaxaDeCrescimento)
