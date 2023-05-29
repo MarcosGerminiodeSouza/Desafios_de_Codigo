@@ -1,6 +1,19 @@
 let data = gets();
-const mesTxt = [' de Janeiro de ',' de Fevereiro de ',' de Marco de ',' de Abril de ',' de Maio',' de Junho de ',
-' de Julho de ',' de Agosto de ',' de Setembro de ',' de Outubro de ',' de Novembro de ',' de Dezembro de ']
+const mesTxt = [
+  ' de Janeiro de ',
+  ' de Fevereiro de ',
+  ' de Marco de ',
+  ' de Abril de ',
+  ' de Maio',
+  ' de Junho de ',
+  ' de Julho de ',
+  ' de Agosto de ',
+  ' de Setembro de ',
+  ' de Outubro de ',
+  ' de Novembro de ',
+  ' de Dezembro de '
+]
+
 let dataSplit = data.split('/');
 let mes = dataSplit[1];
 
@@ -26,8 +39,9 @@ else if(mes == 10)
   mes = mesTxt[9];
 else if (mes == 11)
   mes = mesTxt[10];
-else 
+else
   mes = mesTxt[11];
+
 dataSplit[1] = mes;
 
 print(dataSplit.join(''));
